@@ -1,0 +1,1 @@
+doc3    MapReduce is a software framework and programming model used for processing huge amounts of data

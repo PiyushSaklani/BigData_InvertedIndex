@@ -1,0 +1,1 @@
+doc5    MapReduce tutorial provides basic and advanced concepts of MapReduce. Our MapReduce tutorial is designed for beginners and professionals

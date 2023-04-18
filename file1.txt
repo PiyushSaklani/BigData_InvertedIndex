@@ -1,0 +1,1 @@
+doc1    MapReduce is a programming paradigm that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster

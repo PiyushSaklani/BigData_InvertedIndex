@@ -1,0 +1,1 @@
+doc2    MapReduce facilitates concurrent processing by splitting petabytes of data into smaller chunks, and processing them in parallel on Hadoop

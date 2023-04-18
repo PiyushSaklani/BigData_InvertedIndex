@@ -1,0 +1,1 @@
+doc4    MapReduce program work in two phases, namely, Map and Reduce
